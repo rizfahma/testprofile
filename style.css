@@ -1,0 +1,30 @@
+.image-profile-wrapper {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding-top: 24px;
+  padding-bottom: 24px;
+}
+
+.image-profile {
+  width: 350px;
+  height: 350px;
+  border-radius: 100%;
+}
+
+#about-section {
+  background-color: #e2e2e2;
+}
+
+.card-img-top {
+  height: 300px;
+  object-fit: cover;
+}
+
+.contact {
+  text-align: center;
+}
+
+.btn {
+  padding: .55rem 1.5rem .45rem;
+}
